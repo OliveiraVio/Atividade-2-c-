@@ -1,0 +1,14 @@
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\12 -  If else\bin\Debug\net8.0\12 -  If else.exe
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\12 -  If else\bin\Debug\net8.0\12 -  If else.deps.json
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\12 -  If else\bin\Debug\net8.0\12 -  If else.runtimeconfig.json
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\12 -  If else\bin\Debug\net8.0\12 -  If else.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\12 -  If else\bin\Debug\net8.0\12 -  If else.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\12 -  If else\obj\Debug\net8.0\12 -  If else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\12 -  If else\obj\Debug\net8.0\12 -  If else.AssemblyInfoInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\12 -  If else\obj\Debug\net8.0\12 -  If else.AssemblyInfo.cs
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\12 -  If else\obj\Debug\net8.0\12 -  If else.csproj.CoreCompileInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\12 -  If else\obj\Debug\net8.0\12 -  If else.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\12 -  If else\obj\Debug\net8.0\refint\12 -  If else.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\12 -  If else\obj\Debug\net8.0\12 -  If else.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\12 -  If else\obj\Debug\net8.0\12 -  If else.genruntimeconfig.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\12 -  If else\obj\Debug\net8.0\ref\12 -  If else.dll

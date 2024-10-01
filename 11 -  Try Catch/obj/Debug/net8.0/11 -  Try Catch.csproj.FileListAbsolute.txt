@@ -1,0 +1,14 @@
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\11 -  Try Catch\bin\Debug\net8.0\11 -  Try Catch.exe
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\11 -  Try Catch\bin\Debug\net8.0\11 -  Try Catch.deps.json
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\11 -  Try Catch\bin\Debug\net8.0\11 -  Try Catch.runtimeconfig.json
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\11 -  Try Catch\bin\Debug\net8.0\11 -  Try Catch.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\11 -  Try Catch\bin\Debug\net8.0\11 -  Try Catch.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\11 -  Try Catch\obj\Debug\net8.0\11 -  Try Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\11 -  Try Catch\obj\Debug\net8.0\11 -  Try Catch.AssemblyInfoInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\11 -  Try Catch\obj\Debug\net8.0\11 -  Try Catch.AssemblyInfo.cs
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\11 -  Try Catch\obj\Debug\net8.0\11 -  Try Catch.csproj.CoreCompileInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\11 -  Try Catch\obj\Debug\net8.0\11 -  Try Catch.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\11 -  Try Catch\obj\Debug\net8.0\refint\11 -  Try Catch.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\11 -  Try Catch\obj\Debug\net8.0\11 -  Try Catch.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\11 -  Try Catch\obj\Debug\net8.0\11 -  Try Catch.genruntimeconfig.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\ATIVIDADES 2\11 -  Try Catch\obj\Debug\net8.0\ref\11 -  Try Catch.dll
